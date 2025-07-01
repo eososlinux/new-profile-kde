@@ -6,7 +6,7 @@ systemctl enable NetworkManager
 
 pacman-key --init
 
-systemctl enable firewalld.service
+#systemctl enable firewalld.service
 
 #systemctl enable bluetooth
 

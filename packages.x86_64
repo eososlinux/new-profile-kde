@@ -38,7 +38,6 @@ firewalld
 fastfetch
 fatresize
 firefox
-fish
 git
 gpart
 gptfdisk
@@ -79,7 +78,6 @@ linux-firmware-intel
 linux-firmware-liquidio
 linux-firmware-marvell
 linux-firmware-mediatek
-linux-firmware-mellanox
 linux-firmware-nfp
 linux-firmware-nvidia
 linux-firmware-other
@@ -215,9 +213,12 @@ xorg-xhost
 xorg-xset
 xorg-xinput
 zip
+
+# --- chaotic-aur
 chaotic-mirrorlist
 chaotic-keyring
 octopi
+update-grub
 
 # dependencias calamares
 libpwquality
@@ -225,7 +226,7 @@ yaml-cpp
 ckbcomp
 
 # --- calamares
-calamares
+calamares-eo
 core-calamares-confignet
 core-wallpapers
 core-icons
