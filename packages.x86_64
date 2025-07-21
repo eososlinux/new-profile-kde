@@ -137,6 +137,8 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 plasma-desktop
+plasma-x11-session
+kwin-x11
 ark
 kcalc
 plasma-integration
